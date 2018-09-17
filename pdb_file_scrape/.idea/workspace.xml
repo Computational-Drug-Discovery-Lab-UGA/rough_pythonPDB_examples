@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a8a73cc-52ca-44f8-bfca-d5972b24717b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$Parse_pdb.coverage" NAME="Parse_pdb Coverage Results" MODIFIED="1494260665138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$main.coverage" NAME="main Coverage Results" MODIFIED="1484961996897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$Parse_pdb_fast.coverage" NAME="Parse_pdb_fast Coverage Results" MODIFIED="1490300374878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$Parse_pdbpymy.coverage" NAME="Parse_pdbpymy Coverage Results" MODIFIED="1494260251602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$OrganizeProteinStructure.coverage" NAME="OrganizeProteinStructure Coverage Results" MODIFIED="1484510433454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$Parse_pdb4.coverage" NAME="Parse_pdb_3.4INTERPRETER Coverage Results" MODIFIED="1485224552280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$Parse_class.coverage" NAME="Parse_class Coverage Results" MODIFIED="1484955907959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$Parse_pdb2.coverage" NAME="Search_web Coverage Results" MODIFIED="1484932812093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$Parse_pdb_3_4INTERPRETER.coverage" NAME="Parse_pdb_fast Coverage Results" MODIFIED="1488203293716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$test_web.coverage" NAME="test_web Coverage Results" MODIFIED="1484620468007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$test.coverage" NAME="test Coverage Results" MODIFIED="1484953036831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$DNA_search.coverage" NAME="DNA_search Coverage Results" MODIFIED="1484969571492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pdb_file_scrape$IDS.coverage" NAME="IDS Coverage Results" MODIFIED="1484963036635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pdb_file_scrape">
+      <favorite_root url="file://$PROJECT_DIR$/create_db.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://D:/error/PROGRAMMING_ERROR/1914.pdb" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://D:/pdb_files/100d.pdb" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://$PROJECT_DIR$/Parse_pdb.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      <favorite_root url="file://D:/error/PROGRAMMING_ERROR/12e8.pdb" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Parse_pdb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Parse_pdb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2373">
+              <caret line="113" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+              <folding>
+                <element signature="e#465#474#0" expanded="true" />
+                <element signature="e#4098#4559#0" expanded="false" />
+                <element signature="e#4639#8135#0" expanded="false" />
+                <element signature="e#8282#10256#0" expanded="false" />
+                <element signature="e#10332#10770#0" expanded="false" />
+                <element signature="e#10863#11477#0" expanded="false" />
+                <element signature="e#11615#11846#0" expanded="false" />
+                <element signature="e#11942#16853#0" expanded="false" />
+                <marker date="1507951012748" expanded="true" signature="12986:13024" ph="CREATE DATAB... proteins" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Create_db.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Create_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="48" column="53" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="48" selection-end-column="53" />
+              <folding>
+                <element signature="e#19#33#0" expanded="true" />
+                <element signature="e#2777#5165#0" expanded="false" />
+                <element signature="e#5315#7955#0" expanded="false" />
+                <element signature="e#8116#8637#0" expanded="false" />
+                <marker date="1494260251555" expanded="true" signature="568:593" ph="SELECT COUNT... missing_value" />
+                <marker date="1494260251555" expanded="true" signature="1169:1193" ph="DROP TABLE I... " />
+                <marker date="1494260251555" expanded="true" signature="1431:2331" ph="CREATE TABLE... missing_value" />
+                <marker date="1494260251555" expanded="true" signature="4756:4780" ph="DROP TABLE I... " />
+                <marker date="1494260251555" expanded="true" signature="5090:5114" ph="DROP TABLE I... " />
+                <marker date="1494260251555" expanded="true" signature="7546:7570" ph="DROP TABLE I... " />
+                <marker date="1494260251555" expanded="true" signature="7880:7904" ph="DROP TABLE I... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>12e8</find>
+      <find>1914</find>
+      <find>shutil</find>
+      <find>((\w){4,6})((\s)+)((\d)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)(\w)((\d){4,5})(\s)</find>
+      <find>\S{4}(\.)(pdb)</find>
+      <find>((\w){4,6})((\s)+)((\d)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+)((\d){4,5})((\s)+)</find>
+      <find>(\.)\d{3}(\-)\d{3}(\.)\d{3}</find>
+      <find>((\w){4,6})((\s)+)((\d)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)(\w)((\d){4,8})</find>
+      <find>((\w){4,6})((\s)+)((\d)+)((\s)+)(((\S){5,8})|((\S){2})(\S|\'))((\S){5})</find>
+      <find>((\w){4,6})((\s)+)((\d)+)((\s)+)(((\S)+)|((\S){2})(\S|\'))((\S){5})</find>
+      <find>(((\w){4,6})((\s)+)((\d)+)((\s)+)(((\S)+)|((\S){2})(\S|\'))((\S){5}))</find>
+      <find>(1)(\.)\d{5}(\.)\d{2}</find>
+      <find>(1|0)(\.)\d{5}(\.)\d{2}</find>
+      <find>((1|0)(\.)\d{5}(\.)\d{2})|</find>
+      <find>((0)(\.)\d{5}(\.)\d{2})|((\w){4,6})((\s)+)((\d)+)((\s)+)(((\S){5,8})|(((\S){2})(\S|\'))((\S){5}))</find>
+      <find>((0)(\.)\d{5}(\.)\d{2})|((\w){4,6})((\s)+)((\d)+)((\s)+)(((\S){5,8})|(((\S){2})(\S|\'))((\S){5}))|</find>
+      <find>((0)(\.)\d{5}(\.)\d{2})</find>
+      <find>((0)(\.)\d{5}(\.)\d{2})|(((\w){4,6})((\s)+)((\d)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+)((\d){4,5})((\s)+))</find>
+      <find>((\S)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+).</find>
+      <find>((\w)+)((\s)+)((\d)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+)((\s)+)((\S)+).</find>
+      <find>(((\w){4,6})((\s)+)((\d)+)((\s)+)(\S){4,})</find>
+      <find>directory</find>
+      <find>add</find>
+      <find>pdb_id</find>
+      <find>NAN</find>
+      <find>num</find>
+      <find>num_input</find>
+      <find>list</find>
+      <find>dir</find>
+      <find>directory_list</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Organize_PDBfile.py" />
+        <option value="D:/pbdfiles/5t6n.pdb" />
+        <option value="$PROJECT_DIR$/add_spaces.py" />
+        <option value="$PROJECT_DIR$/OrganizeProteinStructure.py" />
+        <option value="$PROJECT_DIR$/test_web.py" />
+        <option value="D:/5TQ8.pdb" />
+        <option value="$PROJECT_DIR$/Parse_pdb2.py" />
+        <option value="$PROJECT_DIR$/Search_web.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Protein.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/Parse_class.py" />
+        <option value="$PROJECT_DIR$/DNA_search.py" />
+        <option value="D:/pdb_files/5han.pdb" />
+        <option value="$PROJECT_DIR$/automation-single/DNA_search.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e8b1709a-5615-40b9-aa9b-baad6cf5ef19/console_1.sql" />
+        <option value="dbtable:/7c2fc3b4/6aca8f90-6162-4546-9aab-d3c06a2e5a3f/proteins.ids" />
+        <option value="dbtable:/7c2fc3b4/6aca8f90-6162-4546-9aab-d3c06a2e5a3f/proteins.id" />
+        <option value="D:/pdb_files/100d.pdb" />
+        <option value="D:/pdb_files/101m.pdb" />
+        <option value="D:/pdb_files/13pk.pdb" />
+        <option value="D:/pdb_files/102l.pdb" />
+        <option value="D:/pdb_files/error/INDEX_ERROR/11ba.pdb" />
+        <option value="D:/HAS_MODELS_pdb_files/1a13.pdb" />
+        <option value="D:/error/INDEX_ERROR/106d.pdb" />
+        <option value="D:/error/INDEX_ERROR/1a9x.pdb" />
+        <option value="$PROJECT_DIR$/automation-single/IDS.py" />
+        <option value="$PROJECT_DIR$/IDS.py" />
+        <option value="$PROJECT_DIR$/create_db.py" />
+        <option value="D:/error/PROGRAMMING_ERROR/12e8.pdb" />
+        <option value="D:/error/PROGRAMMING_ERROR/1914.pdb" />
+        <option value="D:/pdb_files/100d.pdb" />
+        <option value="D:/error/PROGRAMMING_ERROR/2fzc.pdb" />
+        <option value="D:/error/PROGRAMMING_ERROR/2huw.pdb" />
+        <option value="$PROJECT_DIR$/create_db_fast.py" />
+        <option value="$PROJECT_DIR$/update_list_of_all_ids.py" />
+        <option value="D:/pdb_files2/100D.pdb" />
+        <option value="$PROJECT_DIR$/Parse_pdb_fast.py" />
+        <option value="$PROJECT_DIR$/Create_dbpymy.py" />
+        <option value="$PROJECT_DIR$/Parse_pdb_pymy.py" />
+        <option value="$PROJECT_DIR$/Create_db.py" />
+        <option value="$PROJECT_DIR$/Parse_pdb.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Lab work/pdb_file_scrape/test.py" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;Sqlite (Xerial)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Lab work\pdb_file_scrape" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Parse_pdb">
+    <configuration name="Parse_pdb" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jop80923\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Parse_pdb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="pdb_file_scrape" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#PerlConfigurationType" factoryName="Perl" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="alternativeSdkPath" />
+      <option name="compileTimeBreakpointsEnabled" value="false" />
+      <option name="consoleCharset" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="nonInteractiveModeEnabled" value="false" />
+      <option name="passParentEnvs" value="true" />
+      <option name="perlParameters" value="" />
+      <option name="programParameters" />
+      <option name="scriptPath" />
+      <option name="useAlternativeSdk" value="false" />
+      <option name="workingDirectory" />
+      <option name="SCRIPT_PATH" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="PERL_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENVS">
+        <map />
+      </option>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="CHARSET" />
+      <option name="USE_ALTERNATIVE_SDK" value="false" />
+      <option name="ALTERNATIVE_SDK_PATH" />
+      <option name="scriptCharset" value="utf8" />
+      <option name="startMode" value="RUN" />
+      <option name="isNonInteractiveModeEnabled" value="false" />
+      <option name="isCompileTimeBreakpointsEnabled" value="false" />
+      <option name="initCode" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pdb_file_scrape" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a8a73cc-52ca-44f8-bfca-d5972b24717b" name="Default" comment="" />
+      <created>1483914716315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1483914716315</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2901879" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32513967" sideWeight="0.49785176" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28210756" sideWeight="0.50208336" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23222223" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="961" y="38" width="958" height="1003" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.5152888" sideWeight="0.5767167" order="2" side_tool="false" content_ui="tabs" x="961" y="31" width="958" height="1008" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28210756" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6695843" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45363128" sideWeight="0.49785408" order="3" side_tool="false" content_ui="tabs" x="0" y="29" width="1920" height="1013" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32491767" sideWeight="0.49785408" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://C:/Python34/Lib/site-packages/mysql/connector/cursor.py</url>
+          <line>581</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="287" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LIST_OF_ALL_IDS.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/codecs.py" />
+    <entry file="dbDummy://dbtable:/36dcf50d/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.104l" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1914.pdb" />
+    <entry file="file://D:/pdb_files/170d.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/12e8.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1e00.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1e08.pdb" />
+    <entry file="file://D:/pdb_files/100d.pdb" />
+    <entry file="dbDummy://dbtable:/36dcf50d/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.101d" />
+    <entry file="dbDummy://dbtable:/36dcf50d/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.1a03" />
+    <entry file="dbDummy://dbtable:/36dcf50d/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.10gs" />
+    <entry file="dbDummy://dbtable:/36dcf50d/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.100d" />
+    <entry file="file://C:/Python34/Lib/site-packages/mysql/connector/connection.py" />
+    <entry file="file://C:/Python34/Lib/site-packages/mysql/connector/cursor.py" />
+    <entry file="dbDummy://dbtable:/36dcf50d/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.12e8" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1e8z.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1e9s.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1e9r.pdb" />
+    <entry file="dbDummy://dbtable:/7c2fc3b4/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.1a0a" />
+    <entry file="dbDummy://dbtable:/7c2fc3b4/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.1hdq" />
+    <entry file="file://D:/pdb_files/1hdq.pdb" />
+    <entry file="dbDummy://dbtable:/36dcf50d/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.1a0t" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1hdq.pdb" />
+    <entry file="dbDummy://dbtable:/36dcf50d/5b13c088-dff1-468c-a19b-c0f13c57112f/proteins.1hdq" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1yc4.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/2huw.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/2fzc.pdb" />
+    <entry file="file://D:/pdb_files/2n4m.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1qzr.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1u1c.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1xk9.pdb" />
+    <entry file="file://D:/error/PROGRAMMING_ERROR/1mwu.pdb" />
+    <entry file="file://D:/error/DEBUG/2n4m.pdb" />
+    <entry file="file://D:/error/DEBUG/1yc4.pdb" />
+    <entry file="file://D:/error/DEBUG/1u1c.pdb" />
+    <entry file="file://D:/error/DEBUG/1mwu.pdb" />
+    <entry file="file://$PROJECT_DIR$/update_list_of_all_ids.py" />
+    <entry file="file://$PROJECT_DIR$/create_db_fast.py" />
+    <entry file="file://$PROJECT_DIR$/IDS.py" />
+    <entry file="file://$PROJECT_DIR$/LIST_OF_ALL_IDS2.txt" />
+    <entry file="file://D:/pdb_files2/100d.pdb" />
+    <entry file="file://$PROJECT_DIR$/Parse_pdb_fast.py" />
+    <entry file="file://$PROJECT_DIR$/Parse_pdb_.py" />
+    <entry file="file://D:/pdb_files/149d.pdb" />
+    <entry file="file://D:/pdb_files/149l.pdb" />
+    <entry file="file://$PROJECT_DIR$/Parse_pdb_pymy.py" />
+    <entry file="file://$PROJECT_DIR$/Create_dbpymy.py" />
+    <entry file="file://D:/MySQL_pdb/pdb_file_scrape/Parse_pdb.py" />
+    <entry file="file://$PROJECT_DIR$/Parse_pdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2373">
+          <caret line="113" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding>
+            <element signature="e#465#474#0" expanded="true" />
+            <element signature="e#4098#4559#0" expanded="false" />
+            <element signature="e#4639#8135#0" expanded="false" />
+            <element signature="e#8282#10256#0" expanded="false" />
+            <element signature="e#10332#10770#0" expanded="false" />
+            <element signature="e#10863#11477#0" expanded="false" />
+            <element signature="e#11615#11846#0" expanded="false" />
+            <element signature="e#11942#16853#0" expanded="false" />
+            <marker date="1507951012748" expanded="true" signature="12986:13024" ph="CREATE DATAB... proteins" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" column="53" lean-forward="true" selection-start-line="34" selection-start-column="34" selection-end-line="48" selection-end-column="53" />
+          <folding>
+            <element signature="e#19#33#0" expanded="true" />
+            <element signature="e#2777#5165#0" expanded="false" />
+            <element signature="e#5315#7955#0" expanded="false" />
+            <element signature="e#8116#8637#0" expanded="false" />
+            <marker date="1494260251555" expanded="true" signature="568:593" ph="SELECT COUNT... missing_value" />
+            <marker date="1494260251555" expanded="true" signature="1169:1193" ph="DROP TABLE I... " />
+            <marker date="1494260251555" expanded="true" signature="1431:2331" ph="CREATE TABLE... missing_value" />
+            <marker date="1494260251555" expanded="true" signature="4756:4780" ph="DROP TABLE I... " />
+            <marker date="1494260251555" expanded="true" signature="5090:5114" ph="DROP TABLE I... " />
+            <marker date="1494260251555" expanded="true" signature="7546:7570" ph="DROP TABLE I... " />
+            <marker date="1494260251555" expanded="true" signature="7880:7904" ph="DROP TABLE I... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
